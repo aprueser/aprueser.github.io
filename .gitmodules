@@ -1,0 +1,4 @@
+[submodule "TDAmeritradeAPI.jl"]
+	path = TDAmeritradeAPI.jl
+	url = git@github.com:aprueser/TDAmeritradeAPI.jl.git
+	branch = gh-pages
